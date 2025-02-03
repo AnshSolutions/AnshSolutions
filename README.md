@@ -1,0 +1,7 @@
+- 👋 Hi, I’m [Ansh Kumar](https://github.com/AnshSolutions)
+- 👀 I’m interested in Full Stack Development, solving complex problems, and creating innovative web applications.
+- 🌱 I’m currently learning advanced MERN stack concepts and exploring new technologies like TypeScript and MongoDB.
+- 💞️ I’m looking to collaborate on web development projects, particularly MERN stack applications, and problem-solving challenges.
+- 📫 How to reach me: You can reach me via email at [anshror44@gmail.com] or connect with me on [[LinkedIn](https://www.linkedin.com/in/your-linkedin](https://linkedin.com/in/ansh-kumar-5a40a3249/)).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’ve solved 800+ LeetCode problems, including 450+ medium-level challenges! I'm passionate about competitive programming and problem-solving.
